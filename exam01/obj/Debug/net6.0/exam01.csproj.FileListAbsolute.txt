@@ -1,0 +1,15 @@
+D:\GeekBrains\!Аналитика\03-C#\exam01\bin\Debug\net6.0\exam01.exe
+D:\GeekBrains\!Аналитика\03-C#\exam01\bin\Debug\net6.0\exam01.deps.json
+D:\GeekBrains\!Аналитика\03-C#\exam01\bin\Debug\net6.0\exam01.runtimeconfig.json
+D:\GeekBrains\!Аналитика\03-C#\exam01\bin\Debug\net6.0\exam01.dll
+D:\GeekBrains\!Аналитика\03-C#\exam01\bin\Debug\net6.0\exam01.pdb
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\exam01.csproj.AssemblyReference.cache
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\exam01.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\exam01.AssemblyInfoInputs.cache
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\exam01.AssemblyInfo.cs
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\exam01.csproj.CoreCompileInputs.cache
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\exam01.dll
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\refint\exam01.dll
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\exam01.pdb
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\exam01.genruntimeconfig.cache
+D:\GeekBrains\!Аналитика\03-C#\exam01\obj\Debug\net6.0\ref\exam01.dll
